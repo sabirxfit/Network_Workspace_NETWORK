@@ -1,0 +1,41 @@
+FIVE EVERYDAY NETWORKED DEVICES AND THEIR NETWORK TYPES
+=======================================================
+
+1. SMARTPHONE
+   Network type: WAN (mobile data) and LAN (home/office WiFi)
+   Details: Uses 4G/5G cell towers to reach the wider internet, and
+   switches to WiFi when it is available.
+
+2. WIFI ROUTER
+   Network type: LAN, bridging to a WAN
+   Details: Creates the local network for your devices and connects it
+   to your internet provider, which is the WAN.
+
+3. SMART TV
+   Network type: LAN
+   Details: Joins the router over WiFi or Ethernet to stream content
+   from the internet.
+
+4. LAPTOP
+   Network type: LAN (WiFi or Ethernet) and PAN (Bluetooth)
+   Details: Gets internet through the router, and pairs with a mouse,
+   keyboard, or earbuds over Bluetooth.
+
+5. SMARTWATCH
+   Network type: PAN
+   Details: Pairs with your phone over Bluetooth, usually within a few
+   meters.
+
+
+QUICK REFRESHER ON NETWORK TYPES
+--------------------------------
+PAN (Personal Area Network): A very small range around one person,
+    such as Bluetooth devices.
+LAN (Local Area Network): A home, office, or building, such as WiFi
+    or Ethernet.
+WAN (Wide Area Network): A large geographic area. The internet is
+    the biggest example.
+
+Note: Many devices belong to more than one network at the same time.
+Your phone, for example, can be on a PAN (with a smartwatch), a LAN
+(home WiFi), and a WAN (mobile data) all at once.
