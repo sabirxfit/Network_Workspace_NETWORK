@@ -1,0 +1,11 @@
+Example: WhatsApp
+
+1. When I search for something in WhatsApp, my phone sends the search request through Wi-Fi or mobile data.
+
+2. The request travels through the internet and reaches the WhatsApp server.
+
+3. The server processes the search request and finds the required data.
+
+4. The result is sent back from the WhatsApp server through the internet to my phone.
+
+5. WhatsApp displays the search results on my screen.
